@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA0387B6-8381-4CF0-8C25-A3CD5FB561F8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>黑白棋</RootNamespace>
+    <AssemblyName>黑白棋</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>發行\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Choice_Mode_Gomoku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choice_Mode_Gomoku.Designer.cs">
+      <DependentUpon>Choice_Mode_Gomoku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Choice_Type_Othell.cs">
+      <SubType>Form</SubType>
+      <Generator>-</Generator>
+    </Compile>
+    <Compile Include="Choice_Type_Othell.Designer.cs">
+      <DependentUpon>Choice_Type_Othell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CountChess_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CountChess_Othello.Designer.cs">
+      <DependentUpon>CountChess_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameTree2_Othell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameTree2_Othell.Designer.cs">
+      <DependentUpon>GameTree2_Othell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MCTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MCTS.Designer.cs">
+      <DependentUpon>MCTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCT_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UCT_Othello.Designer.cs">
+      <DependentUpon>UCT_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People_Gomoku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People_Gomoku.Designer.cs">
+      <DependentUpon>People_Gomoku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="People_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="People_Othello.Designer.cs">
+      <DependentUpon>People_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Games_Lobby.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Games_Lobby.Designer.cs">
+      <DependentUpon>Games_Lobby.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameTree1_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameTree1_Othello.Designer.cs">
+      <DependentUpon>GameTree1_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameTree3_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameTree3_Othello.Designer.cs">
+      <DependentUpon>GameTree3_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameTree4_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameTree4_Othello.Designer.cs">
+      <DependentUpon>GameTree4_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameTree5_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameTree5_Othello.Designer.cs">
+      <DependentUpon>GameTree5_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Choice_Mode_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choice_Mode_Othello.Designer.cs">
+      <DependentUpon>Choice_Mode_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="integral_Othello.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="integral_Othello.Designer.cs">
+      <DependentUpon>integral_Othello.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Threats1_tree_Gomoku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Threats1_tree_Gomoku.Designer.cs">
+      <DependentUpon>Threats1_tree_Gomoku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCT.cs" />
+    <EmbeddedResource Include="Choice_Mode_Gomoku.resx">
+      <DependentUpon>Choice_Mode_Gomoku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choice_Type_Othell.resx">
+      <DependentUpon>Choice_Type_Othell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CountChess_Othello.resx">
+      <DependentUpon>CountChess_Othello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameTree4_Othello.resx">
+      <DependentUpon>GameTree4_Othello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MCTS.resx">
+      <DependentUpon>MCTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People_Gomoku.resx">
+      <DependentUpon>People_Gomoku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="People_Othello.resx">
+      <DependentUpon>People_Othello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Games_Lobby.resx">
+      <DependentUpon>Games_Lobby.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameTree1_Othello.resx">
+      <DependentUpon>GameTree1_Othello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameTree3_Othello.resx">
+      <DependentUpon>GameTree3_Othello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Choice_Mode_Othello.resx">
+      <DependentUpon>Choice_Mode_Othello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="integral_Othello.resx">
+      <DependentUpon>integral_Othello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Threats1_tree_Gomoku.resx">
+      <DependentUpon>Threats1_tree_Gomoku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCT_Othello.resx">
+      <DependentUpon>UCT_Othello.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

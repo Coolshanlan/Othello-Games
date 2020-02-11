@@ -1,0 +1,11 @@
+ALTER DATABASE [Othello] SET RECOVERY simple
+use [Othello]
+go
+dbcc shrinkfile('Othello_log',2)
+ALTER DATABASE [Othello] SET RECOVERY FULL
+
+
+Use [C:\Users\¬Ó¦t\Desktop\¶Â¥Õ´Ñ\Othello.MDF] 
+Go
+DBCC SHRINKDATABASE('')
+Go

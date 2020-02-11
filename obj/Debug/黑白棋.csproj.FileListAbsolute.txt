@@ -1,0 +1,232 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\bin\Debug\黑白棋.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.Computer.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.Towplayer.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.Insert.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\黑白棋\obj\Debug\黑白棋.CountChess.resources
+C:\Users\皇宇\Desktop\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.exe
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\皇宇\Desktop\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\皇宇\Desktop\黑白棋\bin\Debug\黑白棋.pdb
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋\bin\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.Choice_Type_Othell.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.CountChess_Othello.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.People_Gomoku.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.People_Othello.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.Games_Lobby.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.GameTree1_Othello.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.GameTree3_Othello.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.integral_Othello.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.UCT_Othello.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.UCT_Othello.resources
+C:\Users\皇宇\Desktop\黑白棋\obj\Debug\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋\obj\Debug\黑白棋.GameTree4_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\bin\Debug\黑白棋.exe.config
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.exe
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\科展專題\黑白棋\bin\Debug\黑白棋.exe
+D:\Google 雲端硬碟\科展專題\黑白棋\bin\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.Choice_Type_Othell.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.CountChess_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.GameTree4_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.People_Gomoku.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.People_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.Games_Lobby.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.GameTree1_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.GameTree3_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.integral_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.UCT_Othello.resources
+D:\Google 雲端硬碟\科展專題\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋 無資料庫版\bin\Debug\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋 無資料庫版\bin\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋 無資料庫版\bin\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.UCT_Othello.resources
+C:\Users\User\Desktop\黑白棋 無資料庫版\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋 安全自動化板\bin\Debug\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋 安全自動化板\bin\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋 安全自動化板\bin\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.UCT_Othello.resources
+C:\Users\User\Desktop\黑白棋 安全自動化板\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\User\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Choice_Type_Othell.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.CountChess_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.GameTree4_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.People_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.People_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Games_Lobby.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.GameTree1_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.GameTree3_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.integral_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.UCT_Othello.resources
+C:\Users\User\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋系列\黑白棋\黑白棋\bin\Debug\黑白棋.exe.config
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋系列\黑白棋\黑白棋\obj\Debug\黑白棋.exe
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋系列\黑白棋\黑白棋\obj\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\bin\Debug\黑白棋.exe.config
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.exe
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.pdb
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\bin\Debug\黑白棋.exe.config
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.exe
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.pdb
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\bin\Debug\黑白棋.exe
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\bin\Debug\黑白棋.pdb
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Type_Othell.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.CountChess_Othello.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree4_Othello.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.People_Gomoku.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.People_Othello.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Games_Lobby.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree1_Othello.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree3_Othello.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Properties.Resources.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.integral_Othello.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.UCT_Othello.resources
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\bin\Debug\黑白棋.exe
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\bin\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Type_Othell.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.CountChess_Othello.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree4_Othello.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.People_Gomoku.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.People_Othello.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Games_Lobby.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree1_Othello.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree3_Othello.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Properties.Resources.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.integral_Othello.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.UCT_Othello.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+D:\Google硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\MCTS_Othello.MCTS.resources
+D:\Google 雲端硬碟\黑白棋\黑白棋-遊戲版本\obj\Debug\MCTS_Othello.MCTS.resources
+D:\Google硬碟\黑白棋_Now\黑白棋-遊戲版本\bin\Debug\黑白棋.exe.config
+D:\Google硬碟\黑白棋_Now\黑白棋-遊戲版本\obj\Debug\黑白棋.exe
+D:\Google硬碟\黑白棋_Now\黑白棋-遊戲版本\obj\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\bin\Debug\黑白棋.exe.config
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.exe
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\bin\Debug\黑白棋.exe
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\bin\Debug\黑白棋.pdb
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Type_Othell.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.CountChess_Othello.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree4_Othello.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\MCTS_Othello.MCTS.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.People_Gomoku.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.People_Othello.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Games_Lobby.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree1_Othello.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree3_Othello.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Properties.Resources.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.integral_Othello.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.UCT_Othello.resources
+D:\Google 雲端硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\bin\Debug\黑白棋.exe.config
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.exe
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.pdb
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\bin\Debug\黑白棋.exe
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\bin\Debug\黑白棋.pdb
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Mode_Gomoku.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Type_Othell.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.CountChess_Othello.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree4_Othello.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\MCTS_Othello.MCTS.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.People_Gomoku.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.People_Othello.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Games_Lobby.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree1_Othello.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.GameTree3_Othello.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Choice_Mode_Othello.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Properties.Resources.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.integral_Othello.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.Threat1_tree_Gomoku.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.UCT_Othello.resources
+D:\Google硬碟\小宇小遊戲\黑白棋-遊戲版本\obj\Debug\黑白棋.csproj.GenerateResource.Cache
